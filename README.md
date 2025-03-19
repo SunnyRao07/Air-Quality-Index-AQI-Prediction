@@ -1,4 +1,3 @@
-# Air-Quality-Index-AQI-Prediction
 # 🌍 Air Quality Index (AQI) Prediction 🌫️  
 
 ![GitHub](https://img.shields.io/badge/GitHub-Project-blue?logo=github)  
