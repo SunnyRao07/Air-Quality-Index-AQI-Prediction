@@ -1,9 +1,4 @@
-# 🌍 Air Quality Index (AQI) Prediction 🌫️  
-
-![GitHub](https://img.shields.io/badge/GitHub-Project-blue?logo=github)  
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-orange)  
-![XGBoost](https://img.shields.io/badge/XGBoost-Optimized-green)  
+# 🌍 Air Quality Index (AQI) Prediction 🌫️
 
 ## 📌 Project Overview  
 Air pollution is a critical environmental issue, and predicting air quality is essential for public health and policymaking. This project leverages **Machine Learning (ML) techniques** to forecast **Air Quality Index (AQI)** based on key environmental pollutants. The models implemented include **Linear Regression, Random Forest, and XGBoost**, with **XGBoost** emerging as the best-performing model.  
