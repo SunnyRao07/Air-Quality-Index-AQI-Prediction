@@ -9,9 +9,9 @@ The models implemented include **Linear Regression, Random Forest, and XGBoost**
 
 ## 📂 Project Resources  
 🔹 **Dataset (CSV File)**: [Download city_day.csv](https://github.com/SunnyRao07/Air-Quality-Index-AQI-Prediction/blob/main/city_day.csv)  
-🔹 **Dataset (Kaggle Link)**: [View on Kaggle](YOUR_KAGGLE_DATASET_LINK)  
-🔹 **Project Code (.ipynb)**: [View Jupyter Notebook](Code_SunnyRao_Karegam_SandeepKumar_Kandagatla_Srikanth_Kannamoni_Alphin_StiviJohn.ipynb)  
-🔹 **Presentation (PPTX File)**: [Download Project Report](GroupReport_SunnyRao_Karegam_SandeepKumar_Kandagatla_Srikanth_Kannamoni_Alphin_StiviJohn.pptx)  
+🔹 **Dataset (Kaggle Link)**: [View on Kaggle](https://www.kaggle.com/code/anjusunilkumar/air-quality-index-prediction?select=city_day.csv)  
+🔹 **Project Code (.ipynb)**: [View Jupyter Notebook](https://github.com/SunnyRao07/Air-Quality-Index-AQI-Prediction/blob/main/Code_SunnyRao_Karegam_SandeepKumar_Kandagatla_Srikanth_Kannamoni_Alphin_StiviJohn.ipynb)  
+🔹 **Presentation (PPTX File)**: [Download Project Report](https://github.com/SunnyRao07/Air-Quality-Index-AQI-Prediction/blob/main/GroupReport_SunnyRao_Karegam_SandeepKumar_Kandagatla_Srikanth_Kannamoni_Alphin_StiviJohn.pptx)  
 
 ---
 
