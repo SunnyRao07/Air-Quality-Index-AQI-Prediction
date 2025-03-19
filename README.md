@@ -1,12 +1,22 @@
-# 🌍 Air Quality Index (AQI) Prediction 🌫️
+# 🌍 Air Quality Index (AQI) Prediction  
 
 ## 📌 Project Overview  
-Air pollution is a critical environmental issue, and predicting air quality is essential for public health and policymaking. This project leverages **Machine Learning (ML) techniques** to forecast **Air Quality Index (AQI)** based on key environmental pollutants. The models implemented include **Linear Regression, Random Forest, and XGBoost**, with **XGBoost** emerging as the best-performing model.  
+Air pollution is a critical environmental issue, and predicting air quality is essential for public health and policymaking.  
+This project leverages **Machine Learning (ML) techniques** to forecast **Air Quality Index (AQI)** based on key environmental pollutants.  
+The models implemented include **Linear Regression, Random Forest, and XGBoost**, with **XGBoost** emerging as the best-performing model.  
 
 ---
 
-## 📊 Dataset  
-The dataset used for this project is **city_day.csv**, containing **29,531 records** and **16 features**, including:  
+## 📂 Project Resources  
+🔹 **Dataset (CSV File)**: [Download city_day.csv](city_day.csv)  
+🔹 **Dataset (Kaggle Link)**: [View on Kaggle](YOUR_KAGGLE_DATASET_LINK)  
+🔹 **Project Code (.ipynb)**: [View Jupyter Notebook](Code_SunnyRao_Karegam_SandeepKumar_Kandagatla_Srikanth_Kannamoni_Alphin_StiviJohn.ipynb)  
+🔹 **Presentation (PPTX File)**: [Download Project Report](GroupReport_SunnyRao_Karegam_SandeepKumar_Kandagatla_Srikanth_Kannamoni_Alphin_StiviJohn.pptx)  
+
+---
+
+## 📊 Dataset Overview  
+The dataset used for this project contains **29,531 records** and **16 features**, including:  
 - **Pollutants**: PM2.5, PM10, NO₂, SO₂, CO, O₃, Benzene, etc.  
 - **Date & City**: Identifying the location and time of recording.  
 - **AQI (Target Variable)**: Measures pollution severity and categorizes it into buckets (Good, Moderate, Poor, etc.).  
@@ -94,4 +104,4 @@ This was a group project, but I **contributed to the entire project**, including
 
 ---
 
-## 📂 Project Structure  
+## 📌 Project Structure  
